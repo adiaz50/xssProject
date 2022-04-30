@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 30 Apr 2022 16:08:59 at https://sso.utep.edu/RSTS/Login?wa=wsignin1.0&wtrealm=urn%3asso.utep.edu%2fCloudAccessManager%2fRPSTS&wreply=https%3a%2f%2fsso.utep.edu%2fCloudAccessManager%2fRPSTS%2fWSFed%2fLogin.aspx&primaryProviderID=ActiveDirectory_2 https://my.utep.edu/?t=1651356518595&r=tGDLDRPWBtY0&h=09edcfe4c24c38ed1ac60ec1452673fb +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://sso.utep.edu/RSTS/Login?wa=wsignin1.0&wtrealm=urn%3asso.utep.edu%2fCloudAccessManager%2fRPSTS&wreply=https%3a%2f%2fsso.utep.edu%2fCloudAccessManager%2fRPSTS%2fWSFed%2fLogin.aspx&primaryProviderID=ActiveDirectory_2 https://my.utep.edu/?t=1651356518595&r=tGDLDRPWBtY0&h=09edcfe4c24c38ed1ac60ec1452673fb -O1 "C:\My Web Sites\XSSProject" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:09:00	Warning: 	File not parsed, looks like binary: https://sso.utep.edu/robots.txt
+16:09:04	Warning: 	Found for https://my.utep.edu/?t=1651356518595&r=tGDLDRPWBtY0&h=09edcfe4c24c38ed1ac60ec1452673fb
+16:09:04	Warning: 	File has moved from https://my.utep.edu/?t=1651356518595&r=tGDLDRPWBtY0&h=09edcfe4c24c38ed1ac60ec1452673fb to /My
+16:09:28	Error: 	"Not Found" (404) at link https://sso.utep.edu/_WTStatic/public/CUI/img/spinner.black.png (from https://sso.utep.edu/_WTStatic/public/common.css)
+16:09:28	Error: 	"Not Found" (404) at link https://my.utep.edu/Content/icons/utep_icon-70x70.png (from https://my.utep.edu/My)
+16:09:28	Error: 	"Not Found" (404) at link https://my.utep.edu/Content/icons/utep_icon-150x150.png (from https://my.utep.edu/My)
+16:09:28	Error: 	"Not Found" (404) at link https://my.utep.edu/Content/icons/utep_icon-310x150.png (from https://my.utep.edu/My)
+16:09:28	Error: 	"Not Found" (404) at link https://my.utep.edu/Content/icons/utep_icon-310x310.png (from https://my.utep.edu/My)
+16:09:36	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://my.utep.edu/My)
+16:09:36	Error: 	"Not Found" (404) at link https://my.utep.edu/MainLinks/ImportantDates.html (from https://my.utep.edu/My)
+16:09:36	Error: 	"Not Found" (404) at link https://my.utep.edu/MainLinks/UpcomingEvents.html (from https://my.utep.edu/My)
+
+HTTrack Website Copier/3.49-2 mirror complete in 37 seconds : 73 links scanned, 62 files written (2569079 bytes overall) [1919579 bytes received at 51880 bytes/sec], 1074324 bytes transferred using HTTP compression in 25 files, ratio 36%
+(8 errors, 3 warnings, 0 messages)

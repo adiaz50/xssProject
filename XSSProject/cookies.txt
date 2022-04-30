@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.utep.edu	TRUE	/	FALSE	1999999999	CAM_UAID	9a9e6927-e859-4c97-8cda-093f91475f1b
+.utep.edu	TRUE	/	FALSE	1999999999	CAM_PREAUTH	campa3tpw4!A5!9hQG7DxTdgVKw
+.utep.edu	TRUE	/	FALSE	1999999999	CAM_CLONEID	1
+my.utep.edu	TRUE	/	FALSE	1999999999	.AspNetCore.Session	CfDJ8OFhrB5k8g5It52DCF11HEwwRzHyG2ACg9bel0TZusdhpRrSpgPJp3oWC7I1RGJxiaQDqffEuYMJ2D3TO1vdBmAEwK4Afcg8UWd1C9sEnUvh4CB1vPUR4NA1A5zLAX5myw9q4MuDdVeXVFEfJrMatu9IrWGSuJ7dBpQNhNB2iP%2FU
+my.utep.edu	TRUE	/	FALSE	1999999999	samesite	lax
+my.utep.edu	TRUE	/	FALSE	1999999999	NSC_nz_iuuqt	ffffffff826417fb45525d5f4f58455e445a4a423660
+utep.edu	TRUE	/	FALSE	1999999999	ssoowapersist	ffffffff8264169145525d5f4f58455e445a4a42378b
+
